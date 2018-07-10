@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 '''
+- [Python的垃圾回收](https://www.cnblogs.com/Xjng/p/5128269.html)
+- [Python与Ruby的垃圾回收](https://www.jianshu.com/p/1e375fb40506)
+
 Python垃圾回收机制的研究.
 使用 sys.getrefcount(obj) 可返回引用数.
 f1是正常情况

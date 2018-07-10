@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# [Python 表达式 i += x 与 i = i + x 等价吗？](https://foofish.net/iadd_add.html)
 # 讨论可变性,区分可变类型和不可变类型:int,float,str,tuple,list,dict,set,frozenset
 a = 1
 old_id = id(a)
